@@ -1,0 +1,17 @@
+{
+  "name": "remix.macro",
+  "version": "0.0.2",
+  "description": "",
+  "main": "lib/index.macro.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-macros": "^1.1.1",
+    "babel-plugin-macros": "^2.0.0",
+    "babel-plugin-tester": "^5.0.0",
+    "jest": "^22.1.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
